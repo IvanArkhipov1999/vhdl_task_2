@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Oct 27 12:08:48 2021
+# Process ID: 15621
+# Current directory: /home/ivan-arhipych/vivado/tasks/task_2/task_2.runs/synth_1
+# Command line: vivado -log polynomial.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source polynomial.tcl
+# Log file: /home/ivan-arhipych/vivado/tasks/task_2/task_2.runs/synth_1/polynomial.vds
+# Journal file: /home/ivan-arhipych/vivado/tasks/task_2/task_2.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source polynomial.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/ivan-arhipych/vivado/tasks/task_2/task_2.srcs/sources_1/new/polynomial.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'polynomial'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/ivan-arhipych/vivado/tasks/task_2/task_2.srcs/sim_1/new/test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test'
